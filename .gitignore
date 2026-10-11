@@ -1,0 +1,16 @@
+# Compiled Java files
+
+*.class
+
+# Local banking data
+
+bank-data.dat
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Logs
+
+*.log
